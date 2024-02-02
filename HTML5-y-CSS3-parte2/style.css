@@ -1,0 +1,50 @@
+.tituloPrincipal {
+    padding-left: 30px;
+}
+
+
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background: #CCCCCC;
+    padding: 20px;
+}
+
+.tituloCentro{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+em strong{
+    color: red;
+}
+
+#mision {
+    font-size: 20px;
+}
+
+.diferenciales {
+    background: white;
+    padding: 30px;
+}
+
+
+.items {
+    font-style: italic;
+}
+
+ul {
+    display: inline-block; /*Modificamos la propiedad por defecto de las lineas de la lista, permitiendo que no ocupen toda la pantalla de la pagina*/
+    vertical-align: top; /*Alineamos al borde superior las lineas de las lista*/
+    width: 20%;
+    margin-right: 15%;
+}
+
+.imagenDiferenciales {
+    width: 50%;
+}
