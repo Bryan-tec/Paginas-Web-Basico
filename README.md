@@ -1,7 +1,9 @@
 <h1>Paginas web</h1>
 
  - Estado de proyecto: Concluido.
- - Programa ONE Oracle + Alura
+ - Programa ONE Oracle + Alura.
+ - Virtual Studio Code.
+ - HTMAL, CSS y JavaScript.
 
 <h2>Spanish</h2>
 <p>Proyecto del programa ONE Oracle y Alura para la creacion de paginas web, ejercicio donde se muestra el progreso de la misma pagina, agregando cada vez mas funciones tanto de HTML como CSS.</p>
